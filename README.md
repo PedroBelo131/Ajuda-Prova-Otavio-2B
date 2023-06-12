@@ -1,2 +1,2 @@
-# Prova referente ao segundo Bimestre de Design Mobile
+# Ajuda para a prova do segundo bimestre design mobile
 ## Aluno: Pedro Henrique Lucas Belo
